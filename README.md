@@ -1,11 +1,18 @@
 ## Hi there 👋 I'm Priya.
-Welcome to my GitHub corner!
+Welcome to my GitHub corner!.
+
+
 About Me:
+
 🎓 Data-driven Certified Data Analyst professional.
+
 🔍 Passionate about using data to solve real-world problems.
+
 🔧 I work with SQL,DAX and Power BI  to analyze data, create reports, and generate insights.
+
 🔭 I’m currently working on Databricks ,end to end solution.
-🌱 Currently refreshing my skill on Databricks for deeper data exploration.
+
+🌱 Currently refreshing my skills on Databricks for deeper data exploration.
 
 📫Reach out to me:
 LinkedIn
